@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(245, 249, 243);
+ }
+ 
+ .container {
+    display: flex;
+    align-items: center;
+    background-color: rgb(10, 203, 237);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(240, 243, 241);
+    justify-content: space-between;
+    margin-top: 50px;
+ }
+ 
+ ul {
+    display: flex;
+    list-style-type: none;
+    gap: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(147, 39, 6);
+ }
+ 
+ button {
+    padding: 10px;
+    width: 70px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(11, 188, 73);
+ 
+ }
+ 
+ .para {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-top: 100px;
+ }
+ 
+ .child1 {
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+
+ 

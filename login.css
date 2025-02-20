@@ -1,0 +1,35 @@
+body{
+   
+    display: flex;
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/2176593/pexels-photo-2176593.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+}
+.container{
+    background-color:whitesmoke;
+    width: 300px;
+    height: 200px;
+    border-radius: 0%;
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+    color:rgb(31, 6, 2);
+}
+button{
+    background-color:rgb(168, 248, 48);
+    border: 0;
+    margin: 4px;
+    padding: 1px;      
+    width: 100px;
+    height: 40px;
+}
+.form-section{
+    margin: 5px;
+}
